@@ -1,0 +1,51 @@
+State, Democrat,Republican,Dem Advantage,N,Classification
+Maine,47,39,8,941,Lean Dem
+New Hampshire,43,40,3,831,Competitive
+Vermont,52,30,22,496,Solid Dem
+Massachusetts,57,26,31,"3,805",Solid Dem
+Rhode Island,48,27,21,602,Solid Dem
+Connecticut,51,32,19,"2,020",Solid Dem
+New York,52,29,23,"10,864",Solid Dem
+New Jersey,48,33,15,"4,455",Solid Dem
+Pennsylvania,46,41,5,"7,974",Competitive
+Maryland,56,28,28,"3,193",Solid Dem
+Delaware,45,33,12,500,Solid Dem
+West Virginia,40,44,-4,"1,011",Competitive
+Ohio,41,42,-1,"6,319",Competitive
+Michigan,45,38,7,"5,541",Lean Dem
+Indiana,41,43,-2,"3,578",Competitive
+Illinois,50,33,17,"5,712",Solid Dem
+Wisconsin,43,41,2,"3,353",Competitive
+Minnesota,47,37,10,"3,428",Solid Dem
+Iowa,42,42,0,"2,126",Competitive
+Missouri,38,45,-7,"3,602",Lean Rep
+North Dakota,28,56,-28,536,Solid Rep
+South Dakota,35,52,-17,579,Solid Rep
+Nebraska,35,50,-15,"1,437",Solid Rep
+Kansas,34,48,-14,"1,771",Solid Rep
+Virginia,45,38,7,"4,893",Lean Dem
+North Carolina,44,39,5,"5,774",Competitive
+South Carolina,37,47,-10,"2,821",Solid Rep
+Georgia,42,40,2,"5,458",Competitive
+Florida,42,39,3,"11,094",Competitive
+Kentucky,41,45,-4,"2,508",Competitive
+Tennessee,35,47,-12,"4,117",Solid Rep
+Alabama,35,50,-15,"3,057",Solid Rep
+Mississippi,38,45,-7,"1,654",Lean Rep
+Arkansas,36,45,-9,"1,883",Lean Rep
+Louisiana,40,43,-3,"2,589",Competitive
+Oklahoma,35,49,-14,"2,459",Solid Rep
+Texas,38,41,-3,"14,138",Competitive
+Montana,37,51,-14,"1,059",Solid Rep
+Arizona,40,42,-2,"3,669",Competitive
+Colorado,46,37,9,"3,574",Lean Dem
+Idaho,31,53,-22,"1,254",Solid Rep
+Wyoming,27,56,-29,493,Solid Rep
+Utah,29,56,-27,"2,099",Solid Rep
+Nevada,42,39,3,"1,540",Competitive
+New Mexico,48,34,14,"1,454",Solid Dem
+California,51,30,21,"18,168",Solid Dem
+Oregon,49,36,13,"3,187",Solid Dem
+Washington,49,34,15,"4,686",Solid Dem
+Hawaii,50,28,22,739,Solid Dem
+Alaska,31,52,-21,553,Solid Rep
